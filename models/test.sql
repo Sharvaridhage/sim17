@@ -1,3 +1,3 @@
-UPDATE employees
+UPDATE "DEMO"."PUBLIC"."EMPLOYEES"
 SET salary = 80000
 WHERE emp_id = 1;
